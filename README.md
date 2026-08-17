@@ -13,7 +13,8 @@ By evaluating traditional statistical frameworks against machine learning techni
 ## 📄 Read the Full Research Paper
 The complete peer-reviewed paper containing the full methodology, state-space formulations, and residual diagnostics is available in this repository.
 
-👉 **[Click Here to Open/Download the Full PDF Paper](./research_paper.pdf)**
+ **[Click Here to Open/Download the Full PDF Paper](./ArticleScienceApril_ARSTE_Ilir_Jasmin.pdf)**
+
 
 ## 📊 Key Methodology & Statistical Insights
 - **Data Source:** Monthly CPI dataset from the Albanian Institute of Statistics (INSTAT), spanning from January 2007 to December 2025 (2,508 observations).
